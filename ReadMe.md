@@ -47,16 +47,27 @@
 - 🚀 Hoàn thành 3 dự án cá nhân quy mô lớn
 - 📝 Viết blog chia sẻ kiến thức technical
 
-## 🤝 Kết Nối Với Mình
+## 📬 Kết Nối Với Mình
 
-<p align="center">
-  <a href="mailto:lekhanhtruongvu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+### 📱 Thông Tin Liên Hệ:
+<p align="left">
   <a href="tel:0869194927">
-    <img src="https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/📱_0869194927-00C300?style=for-the-badge" alt="Phone" />
+  </a>
+  <br>
+  <a href="mailto:lekhanhtruongvu@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_lekhanhtruongvu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+### 🌐 Mạng Xã Hội:
+<p align="left">
+  <a href="https://github.com/Mit2611">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+
 
 ## 💭 Câu Nói Yêu Thích
 
